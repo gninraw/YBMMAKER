@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.0.1</version>
-    <url>https://github.com/gninraw/YBMMAKER/releases/download/MAKER/YbmMaker1.0.0.1.zip</url>
-    <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+    <url>https://github.com/gninraw/YBMMAKER/archive/refs/tags/1.0.1.0.zip</url>
+    <changelog>https://github.com/gninraw/YBMMAKER/releases</changelog>
     <mandatory>false</mandatory>
 </item>
