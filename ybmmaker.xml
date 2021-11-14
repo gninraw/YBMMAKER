@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.1</version>
+    <version>1.0.2.0</version>
     <url>https://github.com/gninraw/YBMMAKER/releases/download/1.0.2.0/YbmMaker-1.0.2.0.zip</url>
     <changelog>https://github.com/gninraw/YBMMAKER/releases</changelog>
     <mandatory>false</mandatory>
